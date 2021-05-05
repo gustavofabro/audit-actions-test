@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/gustavofabro/audit-actions-test/issues"
   },
-  "homepage": "https://github.com/gustavofabro/audit-actions-test#readme"
+  "homepage": "https://github.com/gustavofabro/audit-actions-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
